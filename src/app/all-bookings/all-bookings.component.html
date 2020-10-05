@@ -1,0 +1,30 @@
+<h1> All Bookings</h1>
+
+
+<table class="table table-bordered">
+  <tr>
+    <td>Booking Id</td>
+    <td>Movie Id</td>
+    <td>Show Id</td>
+    <td>Booking Date</td>
+    <td>Transaction Id</td>
+    <td>No of Seats</td>
+    <td>Total Cost</td>
+    <td>Action</td>
+  </tr>
+
+  <tr *ngFor="let booking of bookings">
+    <td>{{booking.bookingId}}</td>
+    <td>{{booking.movieId}}</td>
+    <td>{{booking.showId}}</td>
+    <td>{{booking.bookingDate}}</td>
+    <td>{{booking.transactionId}}</td>
+    <td>{{booking.noOfSeats}}</td>
+    <td>{{booking.totalCost}}</td>
+    <td><button (click)="onCancel(booking.bookingId)" class="btn btn-danger">Cancel</button></td>
+  </tr>
+
+
+</table>
+
+

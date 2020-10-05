@@ -1,0 +1,47 @@
+ [
+    {"name":"Seat1", "value":"A1", "checked":false , "seatPrice":150},
+    {"name":"Seat2","value":"A2", "checked":false , "seatPrice":150},
+    {"name":"Seat3", "value":"A3", "checked":false , "seatPrice":150},
+    {"name":"Seat4", "value":"A4", "checked":false , "seatPrice":150},
+    {"name":"Seat5", "value":"A5", "checked":false , "seatPrice":150},
+    {"name":"Seat6","value":"A6", "checked":false , "seatPrice":150},
+    {"name":"Seat7", "value":"A7", "checked":false , "seatPrice":150},
+    {"name":"Seat8", "value":"A8", "checked":false , "seatPrice":150},
+
+    {"name":"Seat9", "value":"B1", "checked":false , "seatPrice":150},
+    {"name":"Seat10", "value":"B2", "checked":false , "seatPrice":150},
+    {"name":"Seat11", "value":"B3", "checked":false , "seatPrice":150},
+    {"name":"Seat12", "value":"B4", "checked":false , "seatPrice":150},
+    {"name":"Seat13", "value":"B5", "checked":false , "seatPrice":150},
+    {"name":"Seat14", "value":"B6", "checked":false , "seatPrice":150},
+    {"name":"Seat15", "value":"B7", "checked":false , "seatPrice":150},
+    {"name":"Seat16", "value":"B8", "checked":false , "seatPrice":150},
+
+    {"name":"Seat17", "value":"C1", "checked":false , "seatPrice":150},
+    {"name":"Seat18", "value":"C2", "checked":false , "seatPrice":150},
+    {"name":"Seat19", "value":"C3", "checked":false , "seatPrice":150},
+    {"name":"Seat20", "value":"C4", "checked":false , "seatPrice":150},
+    {"name":"Seat21", "value":"C5", "checked":false , "seatPrice":150},
+    {"name":"Seat22", "value":"C6", "checked":false , "seatPrice":150},
+    {"name":"Seat23", "value":"C7", "checked":false , "seatPrice":150},
+    {"name":"Seat24", "value":"C8", "checked":false , "seatPrice":150},
+
+    {"name":"Seat25", "value":"D1","checked":false , "seatPrice":200},
+    {"name":"Seat26","value":"D2", "checked":false , "seatPrice":200},
+    {"name":"Seat27", "value":"D3", "checked":false , "seatPrice":200},
+    {"name":"Seat28", "value":"D4", "checked":false , "seatPrice":200},
+    {"name":"Seat29","value":"D5", "checked":false , "seatPrice":200},
+    {"name":"Seat30", "value":"D6", "checked":false , "seatPrice":200},
+    {"name":"Seat31", "value":"D7","checked":false , "seatPrice":200},
+    {"name":"Seat32", "value":"D8", "checked":false , "seatPrice":200},
+
+    {"name":"Seat33", "value":"E1", "checked":false , "seatPrice":200},
+    {"name":"Seat34", "value":"E2","checked":false , "seatPrice":200},
+    {"name":"Seat35", "value":"E3", "checked":false , "seatPrice":200},
+    {"name":"Seat36", "value":"E4","checked":false , "seatPrice":200},
+    {"name":"Seat37", "value":"E5", "checked":false , "seatPrice":200},
+    {"name":"Seat38","value":"E6", "checked":false , "seatPrice":200},
+    {"name":"Seat39", "value":"E7", "checked":false , "seatPrice":200},
+    {"name":"Seat40", "value":"E8", "checked":false , "seatPrice":200 }
+
+  ]

@@ -1,0 +1,52 @@
+
+<h2>Payment Section</h2>
+<form [formGroup]="myForm">
+
+<hr>
+<label> Card Number</label>
+<input type='text' formControlName="cardNumber"> <br>
+
+<label> CVV</label>
+<input type='text' formControlName="cvv"> <br>
+
+<label> Date </label>
+<input type='date' formControlName="expiry"> <br>
+
+<button (click)="onSubmit()">Submit</button>
+
+</form>
+
+
+<h2>Ticket Generated</h2>
+<table>
+  <tr>
+    <td>Ticket Id</td>
+    <td>{{ticket.ticketId}}</td>
+  </tr>
+
+  <tr>
+    <td>Number of Seats</td>
+    <td>{{ticket.noOfSeats}}</td>
+  </tr>
+
+  <tr>
+    <td>Seat Name</td>
+    <td>{{ticket.seatName}}</td>
+  </tr>
+
+  <tr>
+    <td>Booking Id</td>
+    <td>{{ticket.bookingId}}</td>
+  </tr>
+  <tr>
+    <td>Ticket Status</td>
+    <td>{{ticket.ticketStatus}}</td>
+  </tr>
+
+  <tr>
+    <td>Screen Name</td>
+    <td>{{ticket.screenName}}</td>
+  </tr>
+</table>
+
+
